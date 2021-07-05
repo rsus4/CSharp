@@ -16,5 +16,6 @@ This app is a platform for promoting local musicians. It helps them collaborate 
 Feel free to make bug reports on our issues. You can reach out to me in case you need further assistance. 
 
 *Contact:*
+
 🎸 Rishit: rishit19091@iiitd.ac.in
 *****
